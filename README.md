@@ -1,2 +1,2 @@
 # JavaScript
-Learning JS
+Learning JS in coding dojo 
